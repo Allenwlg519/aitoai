@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@example.com",
+      "password_hash": "$2a$12$5iNW5R3YUaP8J/SV1XVny.6EnmTiRQZ27ZrofCz4GDm6bsUTVTrpi",
+      "name": "Test User",
+      "role": "user",
+      "created_at": "2026-05-17T14:47:47.615Z",
+      "updated_at": "2026-05-17T14:47:47.615Z"
+    }
+  ],
+  "projects": [],
+  "feedback": []
+}
